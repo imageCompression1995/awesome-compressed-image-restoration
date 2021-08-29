@@ -8,6 +8,7 @@
 |[MRS-Net+ for Enhancing Face Quality of Compressed Videos](https://ieeexplore.ieee.org/abstract/document/9509420)  | 2021 | TCSVT| |  |
 |[Interlayer Restoration Deep Neural Network for Scalable High Efficiency Video Coding](https://ieeexplore.ieee.org/abstract/document/9478899)  | 2021 | TCSVT| |  |
 |[Compressed Domain Deep Video Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9509352)  | 2021 | TIP| |  |
+|[A Model-Driven Deep Unfolding Method for JPEG Artifacts Removal](https://ieeexplore.ieee.org/abstract/document/9446478)  | 2021 | TNNLS| |  |
 |[Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement](https://aaai.org/ojs/index.php/AAAI/article/view/6697/6551)|2020|AAAI| | |
 |[Early Exit or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images](https://arxiv.org/pdf/2006.16581.pdf)|2020|ECCV| | |
 |[Multi-level Wavelet-Based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video](https://arxiv.org/pdf/2008.00499.pdf)|2020|ECCV| | |
