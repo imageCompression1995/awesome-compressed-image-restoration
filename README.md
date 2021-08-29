@@ -19,6 +19,7 @@
 |[Deep Non-Local Kalman Network for Video Compression Artifact Reduction](https://ieeexplore.ieee.org/abstract/document/8852849)|2019|TIP| | |
 |[Non-Local ConvLSTM for Video Compression Artifact Reduction](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Non-Local_ConvLSTM_for_Video_Compression_Artifact_Reduction_ICCV_2019_paper.pdf)|2019|ICCV| | |
 |[JPEG Artifacts Reduction via Deep Convolutional Sparse Coding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.pdf)|2019|ICCV| | |
+|[HEVC Compression Artifact Reduction with Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8927915)|2019|WCSP| | |
 |[Multi-Frame Quality Enhancement for Compressed Video](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)  | 2018 | CVPR| | video |
 |[MGANet: A Robust Model for Quality Enhancement of Compressed Video](https://arxiv.org/pdf/1811.09150.pdf)  | 2018 | arixv| | |
 |[Deep Generative Adversarial Compression Artifact Removal](https://openaccess.thecvf.com/content_ICCV_2017/papers/Galteri_Deep_Generative_Adversarial_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
