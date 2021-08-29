@@ -2,6 +2,7 @@
 
 |  Title   | year  | Venue | code | keyword |
 |  ----  | ----  | ---- | ---- | ---- |
+|[Enhanced Separable Convolution Network for Lightweight JPEG Compression Artifacts Reduction](https://ieeexplore.ieee.org/document/9463776)  | 2021 | SPL| |  |
 |[NTIRE 2021 Challenge on Quality Enhancement of Compressed Video:Methods and Results](https://arxiv.org/pdf/2104.10781.pdf)  | 2021 | CVPR| | competition |
 |[Boosting the Performance of Video Compression Artifact Reduction with Reference Frame Proposals and Frequency Domain Information](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Xu_Boosting_the_Performance_of_Video_Compression_Artifact_Reduction_With_Reference_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | competition |
 |[Patch-Wise Spatial-Temporal Quality Enhancement for HEVC Compressed Video](https://ieeexplore.ieee.org/abstract/document/9477424)  | 2021 | TIP| |  |
