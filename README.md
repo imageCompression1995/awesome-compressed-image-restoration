@@ -1,7 +1,7 @@
 # Compressed Image Restoration
 - different codecs
 - different encoding parameters
-- different artifacts
+- spatial/temporal artifacts
 
 |  Title   | year  | Venue | code | keyword |
 |  ----  | ----  | ---- | ---- | ---- |
