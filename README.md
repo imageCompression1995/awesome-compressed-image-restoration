@@ -9,6 +9,7 @@
 |[Toward Interactive Modulation for Photo-Realistic Image Restoration](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Cai_Toward_Interactive_Modulation_for_Photo-Realistic_Image_Restoration_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | weight generating|
 |[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
 |[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
+|[Quantization Guided JPEG Artifact Correction](https://arxiv.org/abs/2004.09320)  | 2020 | ECCV| | |
 |[JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks](https://www.ijcai.org/proceedings/2020/0079.pdf)  | 2020 | IJCAI| | |
 |[Learning a Single Model With a Wide Range of Quality Factors for JPEG Image Artifacts Removal](https://arxiv.org/abs/2009.06912)  | 2020 | TIP| | |
 |[CFSNet: Toward a Controllable Feature Space for Image Restoration](https://arxiv.org/pdf/1904.00634.pdf)  | 2019 | ICCV| | weight generating, generalization|
