@@ -24,3 +24,4 @@
 |[MGANet: A Robust Model for Quality Enhancement of Compressed Video](https://arxiv.org/pdf/1811.09150.pdf)  | 2018 | arixv| | |
 |[Reduction of Video Compression Artifacts Based on Deep Temporal Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8502045)  | 2018 | Access| | |
 |[Deep Generative Adversarial Compression Artifact Removal](https://openaccess.thecvf.com/content_ICCV_2017/papers/Galteri_Deep_Generative_Adversarial_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
+|[Decoder-side HEVC quality enhancement with scalable convolutional neural network](https://ieeexplore.ieee.org/document/8019299)  | 2017 | ICME| | |
