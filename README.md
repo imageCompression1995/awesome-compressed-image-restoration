@@ -8,6 +8,7 @@
 |  ----  | ----  | ---- | ---- | ---- |
 |[Toward Interactive Modulation for Photo-Realistic Image Restoration](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Cai_Toward_Interactive_Modulation_for_Photo-Realistic_Image_Restoration_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | weight generating|
 |[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
+|[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
 |[CFSNet: Toward a Controllable Feature Space for Image Restoration](https://arxiv.org/pdf/1904.00634.pdf)  | 2019 | ICCV| | weight generating, generalization|
 |[Deep Network Interpolation for Continuous Imagery Effect Transition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Deep_Network_Interpolation_for_Continuous_Imagery_Effect_Transition_CVPR_2019_paper.pdf)  | 2019 | CVPR| | weight generating, generalization|
 |[Enhanced Separable Convolution Network for Lightweight JPEG Compression Artifacts Reduction](https://ieeexplore.ieee.org/document/9463776)  | 2021 | SPL| |  |
