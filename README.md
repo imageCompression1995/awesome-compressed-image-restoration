@@ -1,5 +1,5 @@
 # Compressed Image Restoration
-- different codecs
+- different codecs / codec information in bitstream
 - different encoding parameters
 - spatial/temporal artifacts
 
