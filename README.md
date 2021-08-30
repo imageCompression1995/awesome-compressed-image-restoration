@@ -2,6 +2,7 @@
 - different codecs / codec information in bitstream
 - different encoding parameters
 - spatial/temporal artifacts
+- generalization --- modulation --- spatial-wise - gumbel 
 
 |  Title   | year  | Venue | code | keyword |
 |  ----  | ----  | ---- | ---- | ---- |
