@@ -33,4 +33,5 @@
 # Related works
 |  Title   | year  | Venue | code | keyword |
 |  ----  | ----  | ---- | ---- | ---- |
-|[Confidence Measure Guided Single Image De-raining](https://arxiv.org/pdf/1909.04207.pdf)  | 201 | arxiv| | deraining |
+|[Confidence Measure Guided Single Image De-raining](https://arxiv.org/pdf/1909.04207.pdf)  | 2019 | arxiv| | deraining |
+|[Pixel-Adaptive Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Pixel-Adaptive_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) | 2019 | CVPR| | content-aware convolution |
