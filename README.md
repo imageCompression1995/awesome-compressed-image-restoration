@@ -2,7 +2,7 @@
 - different codecs / codec information in bitstream
 - different encoding parameters
 - spatial/temporal artifacts
-- generalization --- modulation --- spatial-wise - gumbel 
+- generalization --- modulation --- spatial-wise - gumbel / global prior/local prior/auxiliary learning for qp, codecs predictions 
 
 |  Title   | year  | Venue | code | keyword |
 |  ----  | ----  | ---- | ---- | ---- |
