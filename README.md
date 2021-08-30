@@ -22,6 +22,5 @@
 |[HEVC Compression Artifact Reduction with Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8927915)|2019|WCSP| | |
 |[Multi-Frame Quality Enhancement for Compressed Video](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)  | 2018 | CVPR| | video |
 |[MGANet: A Robust Model for Quality Enhancement of Compressed Video](https://arxiv.org/pdf/1811.09150.pdf)  | 2018 | arixv| | |
-|[Reduction of Video Compression Artifacts
-Based on Deep Temporal Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8502045)  | 2018 | Access| | |
+|[Reduction of Video Compression Artifacts Based on Deep Temporal Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8502045)  | 2018 | Access| | |
 |[Deep Generative Adversarial Compression Artifact Removal](https://openaccess.thecvf.com/content_ICCV_2017/papers/Galteri_Deep_Generative_Adversarial_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
