@@ -4,8 +4,8 @@
 - spatial/temporal artifacts
 - generalization --- modulation --- spatial-wise - gumbel / global prior/local prior/auxiliary learning for qp, codecs predictions 
 
-|  Title   | year  | Venue | code | keyword |
-|  ----  | ----  | ---- | ---- | ---- |
+|  Title   | year  | Venue | code | keyword | Insightful|
+|  ----  | ----  | ---- | ---- | ---- | ----|
 |[Toward Interactive Modulation for Photo-Realistic Image Restoration](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Cai_Toward_Interactive_Modulation_for_Photo-Realistic_Image_Restoration_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | use encoding information to predict shift parameters for modulation in GAN-based framework|
 |[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
 |[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
@@ -27,7 +27,7 @@
 |[Multi-level Wavelet-Based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video](https://arxiv.org/pdf/2008.00499.pdf)|2020|ECCV| | |
 |[Compressed Image Restoration via Artifacts-Free PCA Basis Learning and Adaptive Sparse Modeling](https://ieeexplore.ieee.org/abstract/document/9121762)  | 2020 | TIP| |  |
 |[Learning Local and Global Priors for JPEG Image Artifacts Removal](https://ieeexplore.ieee.org/document/9269390)  | 2020 | SPL| | global prior (global pooling), local prior (channel-wise attention), UNet, weak improvement |
-|[Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/pdf/2012.09161.pdf)  | 2020 | CVPR| | |
+|[Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/pdf/2012.09161.pdf)  | 2020 | CVPR| | |:star: :star:|
 |[MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video](https://arxiv.org/pdf/1902.09707.pdf)|2019|TPAMI| [link](https://github.com/RyanXingQL/MFQEv2.0)| |
 |[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Modulating_Image_Restoration_With_Continual_Levels_via_Adaptive_Feature_Modification_CVPR_2019_paper.pdf)|2019|CVPR| | |
 |[Deep Non-Local Kalman Network for Video Compression Artifact Reduction](https://ieeexplore.ieee.org/abstract/document/8852849)|2019|TIP| | |
