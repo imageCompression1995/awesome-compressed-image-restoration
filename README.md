@@ -27,6 +27,7 @@
 |[Multi-level Wavelet-Based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video](https://arxiv.org/pdf/2008.00499.pdf)|2020|ECCV| | |
 |[Compressed Image Restoration via Artifacts-Free PCA Basis Learning and Adaptive Sparse Modeling](https://ieeexplore.ieee.org/abstract/document/9121762)  | 2020 | TIP| |  |
 |[Learning Local and Global Priors for JPEG Image Artifacts Removal](https://ieeexplore.ieee.org/document/9269390)  | 2020 | SPL| | global prior (global pooling), local prior (channel-wise attention), UNet, weak improvement |
+|[Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/pdf/2012.09161.pdf)  | 2020 | CVPR| | |
 |[MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video](https://arxiv.org/pdf/1902.09707.pdf)|2019|TPAMI| [link](https://github.com/RyanXingQL/MFQEv2.0)| |
 |[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Modulating_Image_Restoration_With_Continual_Levels_via_Adaptive_Feature_Modification_CVPR_2019_paper.pdf)|2019|CVPR| | |
 |[Deep Non-Local Kalman Network for Video Compression Artifact Reduction](https://ieeexplore.ieee.org/abstract/document/8852849)|2019|TIP| | |
