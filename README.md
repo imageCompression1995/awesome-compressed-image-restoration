@@ -3,7 +3,7 @@
 - different encoding parameters
 - spatial/temporal artifacts
 - generalization --- modulation --- spatial-wise - gumbel / global prior/local prior/auxiliary learning for qp, codecs predictions 
-
+- some note: modulation: consider codec information, global prior, local prior, prototype (graph different codec relationships)
 |  Title   | year  | Venue | code | keyword | Insightful|
 |  ----  | ----  | ---- | ---- | ---- | ----|
 |[Toward Interactive Modulation for Photo-Realistic Image Restoration](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Cai_Toward_Interactive_Modulation_for_Photo-Realistic_Image_Restoration_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | use encoding information to predict shift parameters for modulation in GAN-based framework|
