@@ -50,6 +50,7 @@
 |  Title   | year  | Venue | code | keyword |
 |  ----  | ----  | ---- | ---- | ---- |
 |[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/pdf/2104.00317.pdf)  | 2021 | CVPR| | deblur |
+|[Deep Generative Prior](https://zhuanlan.zhihu.com/p/165050802)  | 2020 | ECCV| |  |
 |[Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf)  | 2018 | CVPR| |  |
 |[On-Demand Learning for Deep Image Restoration](https://arxiv.org/pdf/1612.01380.pdf)  | 2017 | ICCV| |  |
 |[Confidence Measure Guided Single Image De-raining](https://arxiv.org/pdf/1909.04207.pdf)  | 2019 | arxiv| | deraining |
