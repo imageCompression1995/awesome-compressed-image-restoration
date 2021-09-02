@@ -54,7 +54,8 @@
 |  ----  | ----  | ---- | ---- | ---- |
 |[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/pdf/2104.00317.pdf)  | 2021 | CVPR| | deblur |
 |[Deep Generative Prior](https://zhuanlan.zhihu.com/p/165050802)  | 2020 | ECCV| |  |
-|[Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf)  | 2018 | CVPR| |  |
+|[Neural Blind Deconvolution Using Deep Priors](https://arxiv.org/pdf/1908.02197.pdf)  | 2020 | CVPR| |  |
+|[Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf)  | 2018 | CVPR| |  |:star:｜
 |[On-Demand Learning for Deep Image Restoration](https://arxiv.org/pdf/1612.01380.pdf)  | 2017 | ICCV| |  |
 |[Confidence Measure Guided Single Image De-raining](https://arxiv.org/pdf/1909.04207.pdf)  | 2019 | arxiv| | deraining |
 |[Pixel-Adaptive Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Pixel-Adaptive_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) | 2019 | CVPR| | content-aware convolution |
