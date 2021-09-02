@@ -5,6 +5,7 @@
 - generalization --- modulation --- spatial-wise - gumbel / global prior/local prior/auxiliary learning for qp, codecs predictions 
 - some note: modulation: consider codec information, global prior, local prior, prototype (graph different codec relationships)
 - learning degradation module
+- self-supervised loss 
 
 |  Title   | year  | Venue | code | keyword | Insightful|
 |  ----  | ----  | ---- | ---- | ---- | ----|
