@@ -41,6 +41,7 @@
 |[A Comprehensive Benchmark for Single Image Compression Artifacts Reduction](https://arxiv.org/pdf/1909.03647.pdf)|2019|arxiv| | overview|
 |[Multi-Frame Quality Enhancement for Compressed Video](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)  | 2018 | CVPR| | video |
 |[MGANet: A Robust Model for Quality Enhancement of Compressed Video](https://arxiv.org/pdf/1811.09150.pdf)  | 2018 | arixv| | |
+|[Learning a Single Convolutional Super-Resolution Network for Multiple Degradations](https://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR18_SRMD.pdf)  | 2018 | CVPR| | |
 |[Reduction of Video Compression Artifacts Based on Deep Temporal Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8502045)  | 2018 | Access| | |
 |[Deep Generative Adversarial Compression Artifact Removal](https://openaccess.thecvf.com/content_ICCV_2017/papers/Galteri_Deep_Generative_Adversarial_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
 |[Decoder-side HEVC quality enhancement with scalable convolutional neural network](https://ieeexplore.ieee.org/document/8019299)  | 2017 | ICME| | |
