@@ -8,6 +8,7 @@
 
 |  Title   | year  | Venue | code | keyword | Insightful|
 |  ----  | ----  | ---- | ---- | ---- | ----|
+|[Deep Likelihood Network for Image Restoration with Multiple Degradation Levels](https://arxiv.org/pdf/1904.09105.pdf)  | 2021 | TIP| | |
 |[Toward Interactive Modulation for Photo-Realistic Image Restoration](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Cai_Toward_Interactive_Modulation_for_Photo-Realistic_Image_Restoration_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | use encoding information to predict shift parameters for modulation in GAN-based framework|
 |[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://arxiv.org/pdf/1904.08118.pdf)| 2019 | CVPR| | AdaFM, feature modulation, generalization|:star::star::star:|
 |[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
