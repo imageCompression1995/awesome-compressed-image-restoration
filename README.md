@@ -29,6 +29,7 @@
 |[A Model-Driven Deep Unfolding Method for JPEG Artifacts Removal](https://ieeexplore.ieee.org/abstract/document/9446478)  | 2021 | TNNLS| |  |
 |[Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement](https://aaai.org/ojs/index.php/AAAI/article/view/6697/6551)|2020|AAAI| | |
 |[Early Exit or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images](https://arxiv.org/pdf/2006.16581.pdf)|2020|ECCV| | |
+|[Degradation Model Learning for Real-World Single Image Super-resolution](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ACCV20-DML.pdf)|2020|ACCV| | |
 |[Multi-level Wavelet-Based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video](https://arxiv.org/pdf/2008.00499.pdf)|2020|ECCV| | |
 |[Compressed Image Restoration via Artifacts-Free PCA Basis Learning and Adaptive Sparse Modeling](https://ieeexplore.ieee.org/abstract/document/9121762)  | 2020 | TIP| |  |
 |[Learning Local and Global Priors for JPEG Image Artifacts Removal](https://ieeexplore.ieee.org/document/9269390)  | 2020 | SPL| | global prior (global pooling), local prior (channel-wise attention), UNet, weak improvement |
