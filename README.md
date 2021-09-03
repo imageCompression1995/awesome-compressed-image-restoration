@@ -11,14 +11,6 @@
 |  ----  | ----  | ---- | ---- | ---- | ----|
 |[Deep Likelihood Network for Image Restoration with Multiple Degradation Levels](https://arxiv.org/pdf/1904.09105.pdf)  | 2021 | TIP| | |
 |[Toward Interactive Modulation for Photo-Realistic Image Restoration](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Cai_Toward_Interactive_Modulation_for_Photo-Realistic_Image_Restoration_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | use encoding information to predict shift parameters for modulation in GAN-based framework|
-|[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://arxiv.org/pdf/1904.08118.pdf)| 2019 | CVPR| | AdaFM, feature modulation, generalization|:star::star::star:|
-|[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
-|[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
-|[Quantization Guided JPEG Artifact Correction](https://arxiv.org/abs/2004.09320)  | 2020 | ECCV| | |
-|[JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks](https://www.ijcai.org/proceedings/2020/0079.pdf)  | 2020 | IJCAI| | |
-|[Learning a Single Model With a Wide Range of Quality Factors for JPEG Image Artifacts Removal](https://arxiv.org/abs/2009.06912)  | 2020 | TIP| [link](https://github.com/VDIGPKU/QGCN) | quantization table as input for adapting to different qp, global pooling for global prior|
-|[CFSNet: Toward a Controllable Feature Space for Image Restoration](https://arxiv.org/pdf/1904.00634.pdf)  | 2019 | ICCV| | weight generating, generalization|
-|[Deep Network Interpolation for Continuous Imagery Effect Transition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Deep_Network_Interpolation_for_Continuous_Imagery_Effect_Transition_CVPR_2019_paper.pdf)  | 2019 | CVPR| | weight generating, generalization|
 |[Enhanced Separable Convolution Network for Lightweight JPEG Compression Artifacts Reduction](https://ieeexplore.ieee.org/document/9463776)  | 2021 | SPL| |  |
 |[NTIRE 2021 Challenge on Quality Enhancement of Compressed Video:Methods and Results](https://arxiv.org/pdf/2104.10781.pdf)  | 2021 | CVPR| | competition |
 |[Boosting the Performance of Video Compression Artifact Reduction with Reference Frame Proposals and Frequency Domain Information](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Xu_Boosting_the_Performance_of_Video_Compression_Artifact_Reduction_With_Reference_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | competition |
@@ -30,14 +22,22 @@
 |[Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement](https://aaai.org/ojs/index.php/AAAI/article/view/6697/6551)|2020|AAAI| | |
 |[Early Exit or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images](https://arxiv.org/pdf/2006.16581.pdf)|2020|ECCV| | |
 |[Degradation Model Learning for Real-World Single Image Super-resolution](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ACCV20-DML.pdf)|2020|ACCV| | |
+|[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
+|[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
+|[Quantization Guided JPEG Artifact Correction](https://arxiv.org/abs/2004.09320)  | 2020 | ECCV| | |
+|[JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks](https://www.ijcai.org/proceedings/2020/0079.pdf)  | 2020 | IJCAI| | |
+|[Learning a Single Model With a Wide Range of Quality Factors for JPEG Image Artifacts Removal](https://arxiv.org/abs/2009.06912)  | 2020 | TIP| [link](https://github.com/VDIGPKU/QGCN) | quantization table as input for adapting to different qp, global pooling for global prior|
 |[Multi-level Wavelet-Based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video](https://arxiv.org/pdf/2008.00499.pdf)|2020|ECCV| | |
 |[Compressed Image Restoration via Artifacts-Free PCA Basis Learning and Adaptive Sparse Modeling](https://ieeexplore.ieee.org/abstract/document/9121762)  | 2020 | TIP| |  |
 |[Learning Local and Global Priors for JPEG Image Artifacts Removal](https://ieeexplore.ieee.org/document/9269390)  | 2020 | SPL| | global prior (global pooling), local prior (channel-wise attention), UNet, weak improvement |
 |[Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/pdf/2012.09161.pdf)  | 2020 | CVPR| | |:star: :star:|
 |[MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video](https://arxiv.org/pdf/1902.09707.pdf)|2019|TPAMI| [link](https://github.com/RyanXingQL/MFQEv2.0)| |
 |[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Modulating_Image_Restoration_With_Continual_Levels_via_Adaptive_Feature_Modification_CVPR_2019_paper.pdf)|2019|CVPR| | |
+|[CFSNet: Toward a Controllable Feature Space for Image Restoration](https://arxiv.org/pdf/1904.00634.pdf)  | 2019 | ICCV| | weight generating, generalization|
+|[Deep Network Interpolation for Continuous Imagery Effect Transition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Deep_Network_Interpolation_for_Continuous_Imagery_Effect_Transition_CVPR_2019_paper.pdf)  | 2019 | CVPR| | weight generating, generalization|
 |[Deep Non-Local Kalman Network for Video Compression Artifact Reduction](https://ieeexplore.ieee.org/abstract/document/8852849)|2019|TIP| | |
 |[Non-Local ConvLSTM for Video Compression Artifact Reduction](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Non-Local_ConvLSTM_for_Video_Compression_Artifact_Reduction_ICCV_2019_paper.pdf)|2019|ICCV| | |
+|[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://arxiv.org/pdf/1904.08118.pdf)| 2019 | CVPR| | AdaFM, feature modulation, generalization|:star::star::star:|
 |[JPEG Artifacts Reduction via Deep Convolutional Sparse Coding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.pdf)|2019|ICCV| | |
 |[HEVC Compression Artifact Reduction with Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8927915)|2019|WCSP| | |
 |[A Comprehensive Benchmark for Single Image Compression Artifacts Reduction](https://arxiv.org/pdf/1909.03647.pdf)|2019|arxiv| | overview|
