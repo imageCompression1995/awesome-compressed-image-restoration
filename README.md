@@ -68,3 +68,8 @@
 |[Dynamic Filter Networks](https://proceedings.neurips.cc/paper/2016/file/8bf1211fd4b7b94528899de0a43b9fb3-Paper.pdf)| 2017 | NIPS| |  |
 |[DIP sharing](https://zhuanlan.zhihu.com/p/369445239)|  | zhihu| |  |
 
+
+# Prior based for deraining
+|  Title   | year  | Venue | code | keyword | Insightful|
+|  ----  | ----  | ---- | ---- | ---- | ----|
+|[Joint Bi-layer Optimization for Single-image Rain Streak Removal](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
