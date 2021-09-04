@@ -74,6 +74,7 @@
 
 |  Title   | year  | Venue | code | keyword | Insightful|
 |  ----  | ----  | ---- | ---- | ---- | ----|
+|[Multi-Decoding Deraining Network and Quasi-Sparsity Based Training](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Multi-Decoding_Deraining_Network_and_Quasi-Sparsity_Based_Training_CVPR_2021_paper.pdf)  | 2021 | CVPR| | |
 |[Joint Bi-layer Optimization for Single-image Rain Streak Removal](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
 |[Joint Convolutional Analysis and Synthesis Sparse Representation for Single Image Layer Separation](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gu_Joint_Convolutional_Analysis_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
 |[Rain Streak Removal Using Layer Priors](https://yu-li.github.io/paper/li_cvpr16_rain.pdf)  | 2016 | CVPR| | |
