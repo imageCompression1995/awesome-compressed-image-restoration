@@ -61,6 +61,7 @@
 |[Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Chi_Test-Time_Fast_Adaptation_for_Dynamic_Scene_Deblurring_via_Meta-Auxiliary_Learning_CVPR_2021_paper.pdf)  | 2021 | CVPR| | |
 |[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/pdf/2104.00317.pdf)  | 2021 | CVPR| | deblur |
 |[Deep Generative Prior](https://zhuanlan.zhihu.com/p/165050802)  | 2020 | ECCV| |  |
+|[Unified Dynamic Convolutional Network for Super-Resolution with Variational Degradations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Unified_Dynamic_Convolutional_Network_for_Super-Resolution_With_Variational_Degradations_CVPR_2020_paper.pdf)  | 2020 | CVPR| |  |
 |[Neural Blind Deconvolution Using Deep Priors](https://arxiv.org/pdf/1908.02197.pdf)  | 2020 | CVPR| | MAP-based framework, two neural networks respectively for modeling image and blur kernel, the structure of NN and self-training method and regularization are very important.   |:star::star::star:|
 |[Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf)  | 2018 | CVPR| |  |:star::star::star::star:|
 |[On-Demand Learning for Deep Image Restoration](https://arxiv.org/pdf/1612.01380.pdf)  | 2017 | ICCV| |  |
