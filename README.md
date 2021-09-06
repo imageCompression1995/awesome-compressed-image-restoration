@@ -38,7 +38,7 @@
 |[Deep Network Interpolation for Continuous Imagery Effect Transition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Deep_Network_Interpolation_for_Continuous_Imagery_Effect_Transition_CVPR_2019_paper.pdf)  | 2019 | CVPR| | weight generating, generalization|
 |[Deep Non-Local Kalman Network for Video Compression Artifact Reduction](https://ieeexplore.ieee.org/abstract/document/8852849)|2019|TIP| | |
 |[Non-Local ConvLSTM for Video Compression Artifact Reduction](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Non-Local_ConvLSTM_for_Video_Compression_Artifact_Reduction_ICCV_2019_paper.pdf)|2019|ICCV| | |
-|[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://arxiv.org/pdf/1904.08118.pdf)| 2019 | CVPR| | AdaFM, feature modulation, generalization|:star::star::star:|
+|[Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers](https://arxiv.org/pdf/1904.08118.pdf)| 2019 | CVPR| [link](https://github.com/hejingwenhejingwen/AdaFM) | AdaFM, feature modulation, generalization|:star::star::star:|
 |[JPEG Artifacts Reduction via Deep Convolutional Sparse Coding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.pdf)|2019|ICCV| | |:star::star:|
 |[HEVC Compression Artifact Reduction with Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8927915)|2019|WCSP| | |
 |[A Comprehensive Benchmark for Single Image Compression Artifacts Reduction](https://arxiv.org/pdf/1909.03647.pdf)|2019|arxiv| | overview|
