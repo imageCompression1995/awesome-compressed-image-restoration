@@ -24,6 +24,7 @@
 |[Degradation Model Learning for Real-World Single Image Super-resolution](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ACCV20-DML.pdf)|2020|ACCV| | |
 |[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
 |[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
+|[When to use Convolutional Neural Networks for Inverse Problems](https://ci2cv.net/media/papers/nate_cvpr20.pdf)  | 2020 | CVPR| | |
 |[Quantization Guided JPEG Artifact Correction](https://arxiv.org/abs/2004.09320)  | 2020 | ECCV| | |
 |[JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks](https://www.ijcai.org/proceedings/2020/0079.pdf)  | 2020 | IJCAI| | |
 |[Learning a Single Model With a Wide Range of Quality Factors for JPEG Image Artifacts Removal](https://arxiv.org/abs/2009.06912)  | 2020 | TIP| [link](https://github.com/VDIGPKU/QGCN) | quantization table as input for adapting to different qp, global pooling for global prior|
