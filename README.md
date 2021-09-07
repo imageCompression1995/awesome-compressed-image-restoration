@@ -11,7 +11,6 @@
 |  ----  | ----  | ---- | ---- | ---- | ----|
 |[Deep Maximum a Posterior Estimator for Video Denoising](https://link.springer.com/content/pdf/10.1007/s11263-021-01510-7.pdf)  | 2021 | IJCV| |MAP-based framework |
 |[Deep Likelihood Network for Image Restoration with Multiple Degradation Levels](https://arxiv.org/pdf/1904.09105.pdf)  | 2021 | TIP| |MAP-based framework |
-|[Toward Interactive Modulation for Photo-Realistic Image Restoration]
 |[Toward Interactive Modulation for Photo-Realistic Image Restoration](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Cai_Toward_Interactive_Modulation_for_Photo-Realistic_Image_Restoration_CVPRW_2021_paper.pdf)  | 2021 | CVPR| | use encoding information to predict shift parameters for modulation in GAN-based framework|
 |[Enhanced Separable Convolution Network for Lightweight JPEG Compression Artifacts Reduction](https://ieeexplore.ieee.org/document/9463776)  | 2021 | SPL| |  |
 |[NTIRE 2021 Challenge on Quality Enhancement of Compressed Video:Methods and Results](https://arxiv.org/pdf/2104.10781.pdf)  | 2021 | CVPR| | competition |
@@ -71,6 +70,7 @@
 |[Pixel-Adaptive Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Pixel-Adaptive_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) | 2019 | CVPR| | content-aware convolution |
 |[Dynamic Filter Networks](https://proceedings.neurips.cc/paper/2016/file/8bf1211fd4b7b94528899de0a43b9fb3-Paper.pdf)| 2017 | NIPS| |  |
 |[DIP sharing](https://zhuanlan.zhihu.com/p/369445239)|  | zhihu| |  |
+|[“Double-DIP” :Unsupervised Image Decomposition via Coupled Deep-Image-Priors](https://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/resources/DoubleDIP.pdf)|  | CVPR| | 2021  |
 
 
 # Prior based for deraining
