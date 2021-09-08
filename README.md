@@ -43,7 +43,7 @@
 |[JPEG Artifacts Reduction via Deep Convolutional Sparse Coding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.pdf)|2019|ICCV| | |:star::star:|
 |[HEVC Compression Artifact Reduction with Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8927915)|2019|WCSP| | |
 |[A Comprehensive Benchmark for Single Image Compression Artifacts Reduction](https://arxiv.org/pdf/1909.03647.pdf)|2019|arxiv| | overview|
-|[Multi-Frame Quality Enhancement for Compressed Video](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)  | 2018 | CVPR| | video |
+|[Multi-Frame Quality Enhancement for Compressed Video](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)  | 2018 | CVPR| | video | use high-quality frame to enhance low-quality frame|
 |[Learning a Single Convolutional Super-Resolution Network for Multiple Degradations](https://arxiv.org/pdf/1712.06116.pdf)  | 2018 | CVPR| | MAP-based framework, take degradation information as input| |
 |[MGANet: A Robust Model for Quality Enhancement of Compressed Video](https://arxiv.org/pdf/1811.09150.pdf)  | 2018 | arixv| | |
 |[Learning a Single Convolutional Super-Resolution Network for Multiple Degradations](https://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR18_SRMD.pdf)  | 2018 | CVPR| | |
