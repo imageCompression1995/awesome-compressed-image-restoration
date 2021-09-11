@@ -10,6 +10,7 @@
 |  Title   | year  | Venue | code | keyword | Insightful|
 |  ----  | ----  | ---- | ---- | ---- | ----|
 |[Deep Maximum a Posterior Estimator for Video Denoising](https://link.springer.com/content/pdf/10.1007/s11263-021-01510-7.pdf)  | 2021 | IJCV| |MAP-based framework |
+|[BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment](https://arxiv.org/pdf/2104.13371v1.pdf)  | 2021 | CVPR| | |
 |Adaptive Spatial-Temporal Fusion of Multi-Objective Networks for Compressed Video Perceptual Enhancement | 2021 | CVPRW| ||
 |Boosting the Performance of Video Compression Artifact Reduction with Reference Frame Proposals and Frequency Domain Information | 2021 | CVPRW| ||
 |[Deep Likelihood Network for Image Restoration with Multiple Degradation Levels](https://arxiv.org/pdf/1904.09105.pdf)  | 2021 | TIP| |MAP-based framework |
