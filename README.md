@@ -7,7 +7,7 @@
 - learning degradation module
 - self-supervised loss 
 
-|  Title   | year  | Venue | code | Motivation | Solution| Technical Points|
+|  Title   | year  | Venue | code | Motivation | Solution| Key Technical Points|
 |  ----  | ----  | ---- | ---- | ---- | ----| ---- |
 |[Deep Maximum a Posterior Estimator for Video Denoising](https://link.springer.com/content/pdf/10.1007/s11263-021-01510-7.pdf)  | 2021 | IJCV| |MAP-based framework |
 |[BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment](https://arxiv.org/pdf/2104.13371v1.pdf)  | 2021 | CVPR| | |
