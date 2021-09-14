@@ -7,8 +7,8 @@
 - learning degradation module
 - self-supervised loss 
 
-|  Title   | year  | Venue | code | Motivation | Solution| Key Technical Points|
-|  ----  | ----  | ---- | ---- | ---- | ----| ---- |
+|  Title   | year  | Venue | code | Motivation | Solution| Key Technical Points|Thinking|
+|  ----  | ----  | ---- | ---- | ---- | ----| ---- | ---- |
 |[Deep Maximum a Posterior Estimator for Video Denoising](https://link.springer.com/content/pdf/10.1007/s11263-021-01510-7.pdf)  | 2021 | IJCV| |MAP-based framework |
 |[BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment](https://arxiv.org/pdf/2104.13371v1.pdf)  | 2021 | CVPR| | |
 |Adaptive Spatial-Temporal Fusion of Multi-Objective Networks for Compressed Video Perceptual Enhancement | 2021 | CVPRW| ||
@@ -30,7 +30,7 @@
 |[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
 |[When to use Convolutional Neural Networks for Inverse Problems](https://ci2cv.net/media/papers/nate_cvpr20.pdf)  | 2020 | CVPR| | |
 |[Quantization Guided JPEG Artifact Correction](https://arxiv.org/abs/2004.09320)  | 2020 | ECCV| | |
-|[JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks](https://www.ijcai.org/proceedings/2020/0079.pdf)  | 2020 | IJCAI| |Existing CNN\-based methods only consider pixel\-level loss functions to guide network training. JPEG compression factor has not been fully utilized, and is also hard to use due to the non-differentiability.| They first learn a CNN\-based quality ranker to measure the compression degree, and then propose one quality related loss and one feature matching loss to guide de\-blocking and perceptual quality optimization. Noted that they use dilated convolutions to extract multi-scale features.| The CNN\-based quality ranker aims to prediction quality score of the input image, and is based on Siamese network. To train it, they use rank-based loss due to lacking ground-truth quality score. The quality related loss and feature matching loss use the final output and intermediate output to constraint the quality enhancement network training. |
+|[JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks](https://www.ijcai.org/proceedings/2020/0079.pdf)  | 2020 | IJCAI| |Existing CNN\-based methods only consider pixel\-level loss functions to guide network training. JPEG compression factor has not been fully utilized, and is also hard to use due to the non-differentiability.| They first learn a CNN\-based quality ranker to measure the compression degree, and then propose one quality related loss and one feature matching loss to guide de\-blocking and perceptual quality optimization. Noted that they use dilated convolutions to extract multi-scale features.| The CNN\-based quality ranker aims to prediction quality score of the input image, and is based on Siamese network. To train it, they use rank-based loss due to lacking ground-truth quality score. The quality related loss and feature matching loss use the final output and intermediate output to constraint the quality enhancement network training. | the prediction quality score can be also used as input.|
 |[Learning a Single Model With a Wide Range of Quality Factors for JPEG Image Artifacts Removal](https://arxiv.org/abs/2009.06912)  | 2020 | TIP| [link](https://github.com/VDIGPKU/QGCN) | quantization table as input for adapting to different qp, global pooling for global prior|
 |[Multi-level Wavelet-Based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video](https://arxiv.org/pdf/2008.00499.pdf)|2020|ECCV| | |
 |[Compressed Image Restoration via Artifacts-Free PCA Basis Learning and Adaptive Sparse Modeling](https://ieeexplore.ieee.org/abstract/document/9121762)  | 2020 | TIP| |  |
