@@ -55,6 +55,8 @@
 |[Deep Generative Adversarial Compression Artifact Removal](https://openaccess.thecvf.com/content_ICCV_2017/papers/Galteri_Deep_Generative_Adversarial_ICCV_2017_paper.pdf)  | 2017 | ICCV| | |
 |[Decoder-side HEVC quality enhancement with scalable convolutional neural network](https://ieeexplore.ieee.org/document/8019299)  | 2017 | ICME| | |
 |[D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_D3_Deep_Dual-Domain_CVPR_2016_paper.pdf)  | 2016 | CVPR| | |
+|[Compression Artifacts Removal Using Convolutional Neural Networks](https://arxiv.org/pdf/1605.00366.pdf)  | 2016 | WSCG| | |
+|[Compression Artifacts Reduction by a Deep Convolutional Network](https://arxiv.org/pdf/1504.06993.pdf)  | 2015 | ICCV| | |
 
 # Related works
 |  Title   | year  | Venue | code | keyword | Insightful|
