@@ -28,6 +28,7 @@
 |[Early Exit or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images](https://arxiv.org/pdf/2006.16581.pdf)|2020|ECCV| | |
 |[Degradation Model Learning for Real-World Single Image Super-resolution](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ACCV20-DML.pdf)|2020|ACCV| | |
 |[Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration](https://arxiv.org/pdf/1912.05293.pdf)  | 2020 | ECCV| | weight generating, generalization|
+|[When to use Convolutional Neural Networks for Inverse Problems](https://www.ci2cv.net/media/papers/nate_cvpr20.pdf)  | 2020 | CVPR| | MAP |
 |[Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700239.pdf)  | 2020 | ECCV| | weight generating, generalization|
 |[When to use Convolutional Neural Networks for Inverse Problems](https://ci2cv.net/media/papers/nate_cvpr20.pdf)  | 2020 | CVPR| | |
 |[Quantization Guided JPEG Artifact Correction](https://arxiv.org/abs/2004.09320)  | 2020 | ECCV| | |
