@@ -10,6 +10,7 @@
 |  Title   | year  | Venue | code | Motivation | Solution| Key Technical Points|Thinking|
 |  ----  | ----  | ---- | ---- | ---- | ----| ---- | ---- |
 |[Deep Maximum a Posterior Estimator for Video Denoising](https://link.springer.com/content/pdf/10.1007/s11263-021-01510-7.pdf)  | 2021 | IJCV| |MAP-based framework |
+|[Gradient Guided Image Deblocking Using Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3338533.3368258)  | 2019 | mmA| |gradient information |
 |[BlockCNN: A Deep Network for Artifact Removal and Image Compression](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w50/Maleki_BlockCNN_A_Deep_CVPR_2018_paper.pdf)  | 2018 | CVPRW | |Pixel CNN |
 |[BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment](https://arxiv.org/pdf/2104.13371v1.pdf)  | 2021 | CVPR| | |
 |Adaptive Spatial-Temporal Fusion of Multi-Objective Networks for Compressed Video Perceptual Enhancement | 2021 | CVPRW| ||
