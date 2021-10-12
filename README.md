@@ -9,6 +9,7 @@
 
 |  Title   | year  | Venue | code | Motivation | Solution| Key Technical Points|Thinking|
 |  ----  | ----  | ---- | ---- | ---- | ----| ---- | ---- |
+|[Attention-based Adaptive Selection of Operations for Image Restoration in the Presence of Unknown Combined Distortions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Suganuma_Attention-Based_Adaptive_Selection_of_Operations_for_Image_Restoration_in_the_CVPR_2019_paper.pdf)  | 2019 | CVPR | | |
 |[Deep Maximum a Posterior Estimator for Video Denoising](https://link.springer.com/content/pdf/10.1007/s11263-021-01510-7.pdf)  | 2021 | IJCV| |MAP-based framework |
 |[Gradient Guided Image Deblocking Using Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3338533.3368258)  | 2019 | mmA| |gradient information |
 |[BlockCNN: A Deep Network for Artifact Removal and Image Compression](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w50/Maleki_BlockCNN_A_Deep_CVPR_2018_paper.pdf)  | 2018 | CVPRW | |Pixel CNN |
